@@ -20,7 +20,7 @@ namespace Bonio_Quiz
 
         private void button1_Click(object sender, EventArgs e)
         {
-            string[] classmates = { "Justine", "Ashley", "Lamar", "Mark", "Sofia", "Gabriel" };
+            string[] classmates = { "Siera", "Jane", "Ian", "Rion", "Isidro", "Prince" };
             foreach (string name in classmates)
             { listBox1.Items.Add(name); }
         }
